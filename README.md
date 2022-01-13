@@ -62,7 +62,7 @@ You can search for all these background network connections in lists. This way, 
                   [ -T ]  --contenttocontent              -> CONTENT TO CONTENT SPY-CONNECTIONS
                   [ -R ]  --contenttosrc                  -> CONTENT TO SOURCE SPY-CONNECTIONS
                   [ -L ]  --srctocontent                  -> SOURCE TO CONTENT SPY-CONNECTIONS
-                  [ -K ]  --srctosrc                      -> SOURCE TO CONTENT SPY-CONNECTIONS
+                  [ -K ]  --srctosrc                      -> SOURCE TO SOURCE SPY-CONNECTIONS
                   [ -Z ]  --alltree                       -> FOR ALL SPY-CONNECTIONS
                   
                   
